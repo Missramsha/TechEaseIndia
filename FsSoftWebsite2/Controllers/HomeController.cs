@@ -10,7 +10,7 @@ namespace FsSoftWebsite2.Controllers
 	{
 		public ActionResult Index()
 		{
-			return Redirect("~/Content/Nova");
+			return Redirect("~/Content/TechEaseIndia");
 		}
 
 		public ActionResult About()
