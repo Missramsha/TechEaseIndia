@@ -147,7 +147,6 @@
     <Content Include="Content\TechEaseIndia\assets\css\main.css" />
     <Content Include="Content\TechEaseIndia\assets\img\about-page-title-bg.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\about.jpg" />
-    <Content Include="Content\TechEaseIndia\assets\img\apple-touch-icon.png" />
     <Content Include="Content\TechEaseIndia\assets\img\blog-page-title-bg.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\blog\blog-1.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\blog\blog-2.jpg" />
@@ -180,11 +179,13 @@
     <Content Include="Content\TechEaseIndia\assets\img\contact-bg.png" />
     <Content Include="Content\TechEaseIndia\assets\img\contact-page-title-bg.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\cta-bg.jpg" />
-    <Content Include="Content\TechEaseIndia\assets\img\favicon.png" />
+    <Content Include="Content\TechEaseIndia\assets\img\final logo.ico" />
     <Content Include="Content\TechEaseIndia\assets\img\hero-bg.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\iphone.png" />
     <Content Include="Content\TechEaseIndia\assets\img\logo.png" />
+    <Content Include="Content\TechEaseIndia\assets\img\logo\Final.png" />
     <Content Include="Content\TechEaseIndia\assets\img\logo\logo.png.png" />
+    <Content Include="Content\TechEaseIndia\assets\img\logo\site.png.png" />
     <Content Include="Content\TechEaseIndia\assets\img\new-png.img\Logo.png" />
     <Content Include="Content\TechEaseIndia\assets\img\portfolio-page-title-bg.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\portfolio\app-1.jpg" />
@@ -203,6 +204,7 @@
     <Content Include="Content\TechEaseIndia\assets\img\services.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\team-page-title-bg.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\team\Fahad Momin.png" />
+    <Content Include="Content\TechEaseIndia\assets\img\team\Fahad New.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\team\Iqbal Ansari.png" />
     <Content Include="Content\TechEaseIndia\assets\img\team\Yasin.png" />
     <Content Include="Content\TechEaseIndia\assets\img\testimonials\testimonials-1.jpg" />
