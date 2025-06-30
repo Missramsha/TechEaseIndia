@@ -203,10 +203,9 @@
     <Content Include="Content\TechEaseIndia\assets\img\services-page-title-bg.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\services.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\team-page-title-bg.jpg" />
-    <Content Include="Content\TechEaseIndia\assets\img\team\Fahad Momin.png" />
-    <Content Include="Content\TechEaseIndia\assets\img\team\Fahad New.jpg" />
-    <Content Include="Content\TechEaseIndia\assets\img\team\Iqbal Ansari.png" />
-    <Content Include="Content\TechEaseIndia\assets\img\team\Yasin.png" />
+    <Content Include="Content\TechEaseIndia\assets\img\team\FahadNew.jpg" />
+    <Content Include="Content\TechEaseIndia\assets\img\team\IqbalNew.jpg" />
+    <Content Include="Content\TechEaseIndia\assets\img\team\YaseenNew.png" />
     <Content Include="Content\TechEaseIndia\assets\img\testimonials\testimonials-1.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\testimonials\testimonials-2.jpg" />
     <Content Include="Content\TechEaseIndia\assets\img\testimonials\testimonials-3.jpg" />
